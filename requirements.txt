@@ -1,0 +1,6 @@
+CTransformers
+langchain
+sentence-transformers
+chromadb
+PyPDF2
+streamlit_chat
